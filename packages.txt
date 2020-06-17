@@ -1,0 +1,5 @@
+django
+djangorestframework
+autopep8
+pylint
+Pillow
